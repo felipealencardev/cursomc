@@ -51,5 +51,5 @@ public class ImageService {
 			throw new FileException("Erro ao ler arquivo");
 		}
 	}
-
+	
 }

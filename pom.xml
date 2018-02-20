@@ -78,12 +78,13 @@
 			<artifactId>aws-java-sdk</artifactId>
 			<version>LATEST</version>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
 			<version>LATEST</version>
 		</dependency>
+
 	</dependencies>
 
 	<build>
